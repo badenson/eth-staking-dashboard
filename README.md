@@ -9,6 +9,9 @@ A full-stack, testnet-ready ETH staking dashboard for Ethereum (Sepolia), with a
 - Modern dashboard UI
 - Easy deployment with Docker
 
+![image](https://github.com/user-attachments/assets/9def20c1-5b84-4b94-92c9-43adb1b078c5)
+
+
 ## Quick Start
 
 ### 1. Deploy the Staking Contract
